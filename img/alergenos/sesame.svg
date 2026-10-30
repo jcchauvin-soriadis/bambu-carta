@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<!-- ABOUTME: Icono de alérgeno: Sésamo (Reglamento UE 1169/2011, Anexo II). -->
+<!-- ABOUTME: Línea en currentColor para heredar el color del texto; decorativo, siempre junto al nombre. -->
+<ellipse cx="8" cy="8.5" rx="2.2" ry="3.6" transform="rotate(-30 8 8.5)"/><ellipse cx="16" cy="9" rx="2.2" ry="3.6" transform="rotate(25 16 9)"/><ellipse cx="11.5" cy="16.5" rx="2.2" ry="3.6" transform="rotate(-5 11.5 16.5)"/>
+</svg>
