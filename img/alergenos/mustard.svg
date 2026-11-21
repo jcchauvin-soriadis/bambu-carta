@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<!-- ABOUTME: Icono de alérgeno: Mostaza (Reglamento UE 1169/2011, Anexo II). -->
+<!-- ABOUTME: Línea en currentColor para heredar el color del texto; decorativo, siempre junto al nombre. -->
+<rect x="5" y="9.5" width="14" height="11.5" rx="2.5"/><rect x="6" y="6" width="12" height="3.5" rx="1"/><path d="M14.5 6 17 2"/><path d="M8.5 15.5c1.2-1.5 2.3-1.5 3.5 0s2.3 1.5 3.5 0"/>
+</svg>

@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<!-- ABOUTME: Icono de alérgeno: Soja (Reglamento UE 1169/2011, Anexo II). -->
+<!-- ABOUTME: Línea en currentColor para heredar el color del texto; decorativo, siempre junto al nombre. -->
+<path d="M4 18C4 10 10 4 18 4c2 0 2 2 2 2 0 8-6 14-14 14-2 0-2-2-2-2Z"/><circle cx="8.5" cy="15.5" r="2"/><circle cx="12" cy="12" r="2"/><circle cx="15.5" cy="8.5" r="2"/>
+</svg>
