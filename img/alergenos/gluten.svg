@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<!-- ABOUTME: Icono de alérgeno: Gluten (Reglamento UE 1169/2011, Anexo II). -->
+<!-- ABOUTME: Línea en currentColor para heredar el color del texto; decorativo, siempre junto al nombre. -->
+<path d="M12 22V7"/><ellipse cx="12" cy="4.8" rx="1.6" ry="2.6"/><ellipse cx="9.6" cy="9.5" rx="1.7" ry="2.8" transform="rotate(-35 9.6 9.5)"/><ellipse cx="14.4" cy="9.5" rx="1.7" ry="2.8" transform="rotate(35 14.4 9.5)"/><ellipse cx="9.6" cy="13.8" rx="1.7" ry="2.8" transform="rotate(-35 9.6 13.8)"/><ellipse cx="14.4" cy="13.8" rx="1.7" ry="2.8" transform="rotate(35 14.4 13.8)"/><ellipse cx="9.6" cy="18.1" rx="1.7" ry="2.8" transform="rotate(-35 9.6 18.1)"/><ellipse cx="14.4" cy="18.1" rx="1.7" ry="2.8" transform="rotate(35 14.4 18.1)"/>
+</svg>

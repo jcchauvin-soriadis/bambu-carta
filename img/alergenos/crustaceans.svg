@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+<!-- ABOUTME: Icono de alérgeno: Crustáceos (Reglamento UE 1169/2011, Anexo II). -->
+<!-- ABOUTME: Línea en currentColor para heredar el color del texto; decorativo, siempre junto al nombre. -->
+<ellipse cx="12" cy="14.5" rx="5.5" ry="3.8"/><path d="M10 10.8V9M14 10.8V9"/><path d="M7.3 12.5 5 8.5M3.5 5.5 5 8.5l2-2.5M16.7 12.5 19 8.5M20.5 5.5 19 8.5l-2-2.5"/><path d="M6.8 15.2 3.5 16.5M7.6 17.3 5 19.8M17.2 15.2l3.3 1.3M16.4 17.3l2.6 2.5"/>
+</svg>
